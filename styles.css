@@ -1,0 +1,10 @@
+/* Add your styles here if needed */
+.bar {
+    fill: steelblue;
+}
+
+#chart-container {
+  margin: auto; /* Set left and right margins to 'auto' for centering */
+  display: block; /* Ensure it's a block-level element */
+}
+
